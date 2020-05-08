@@ -148,7 +148,6 @@
 
 .ds-copy {
   color: var(--copy);
-  display: inline-block;
   line-height: 1.5;
   margin: 0 0 30px 0;
   max-width: 800px;
