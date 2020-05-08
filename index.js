@@ -16,6 +16,7 @@ import Section from './components/section';
 import SmallArticle from './components/small-article';
 import Subtext from './components/subtext';
 import Text from './components/text';
+import VertSpace from './components/vert-space';
 import Wrapper from './components/wrapper';
 
 export {
@@ -37,5 +38,6 @@ export {
   SmallArticle,
   Subtext,
   Text,
+  VertSpace,
   Wrapper
 };
